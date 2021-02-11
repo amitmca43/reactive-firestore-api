@@ -13,7 +13,7 @@ import user.api.dto.UserAddressDto;
 import user.api.dto.UserDto;
 import user.api.model.User;
 import user.api.model.UserAddress;
-import user.api.respository.UserRepository;
+import user.api.repository.UserRepository;
 
 @Service
 public class UserService implements IUserService {

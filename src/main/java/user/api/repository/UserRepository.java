@@ -1,4 +1,4 @@
-package user.api.respository;
+package user.api.repository;
 
 import org.springframework.cloud.gcp.data.firestore.FirestoreReactiveRepository;
 import org.springframework.stereotype.Repository;
